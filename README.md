@@ -37,19 +37,57 @@ Adrian Eduardo Treviño Peña
 - Archivos de seguridad en git y github
 
 # Que materiales vamos a utilizar?
+
+
 - Go (lenguaje)
 - Mongodb community (base de datos)
 - Mongodb Compass (ui de base de datos)
 - Postman (probar apis)
-- una terminal (bash,zsh,powershell, command line)
 - git (control de versiones)
+- una terminal (bash,zsh,powershell, command line)
+
+
+- [Go](https://go.dev/doc/install) 
+- [Mongodb community](https://www.mongodb.com/docs/manual/administration/install-community/) 
+- [Mongodb Compass ](https://www.mongodb.com/docs/compass/master/install/) 
+- [Postman](https://www.postman.com/downloads/) 
+- [git](https://git-scm.com/downloads) 
 
 
 ## Opcional
+
+
 - docker
 - neovim (el editor de texto que quieras)
 
 # Ya esta todo programado!!!
 
 https://github.com/adrianetp/prehack
+
+
+## Que es un backend
+
+El backend es la programación de todo lo que el usuario final no ve, es decir, el acceso a las bases de datos, el procesamiento de los datos ingresados por los usuarios, y la ejecución de un script.
+
+- Se puede acceder a estos mediante llamadas a la ip en la que esta hosteada
+
+# Que hace nuestro Backend
+
+- Agregar a un usuario
+- Login
+- "Hello World"
+
+# 
+__     ___    __  __  ___  ____       _    _
+\ \   / / \  |  \/  |/ _ \/ ___|     / \  | |
+ \ \ / / _ \ | |\/| | | | \___ \    / _ \ | |
+  \ V / ___ \| |  | | |_| |___) |  / ___ \| |___
+   \_/_/   \_\_|  |_|\___/|____/  /_/   \_\_____|
+
+  ____ ___  ____ ___ ____  ___  _
+ / ___/ _ \|  _ \_ _/ ___|/ _ \| |
+| |  | | | | | | | | |  _| | | | |
+| |__| |_| | |_| | | |_| | |_| |_|
+ \____\___/|____/___\____|\___/(_)
+
 
